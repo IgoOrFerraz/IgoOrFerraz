@@ -4,5 +4,5 @@
 ## Aspirante a Desenvolvedor WEB
 
 - :books: Estudante em Análise e Desenvolvimento de Sistemas pela Fatec - Ourinhos
-- :underage: Skills: Html, Css, Bootstrap, PHP, JavaScript (Ajax, JQuery)
+- :underage: Skills: Html5, Css (CSS3, SASS, Bootstrap), PHP, JavaScript (Ajax, JQuery)
 - :briefcase: Buscando uma oportunidade no mercado de trabalho adquirindo conhecimento e técnicas apresentadas pela Udemy Cursos
