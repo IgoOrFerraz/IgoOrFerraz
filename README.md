@@ -5,4 +5,4 @@
 
 - :books: Estudante em Análise e Desenvolvimento de Sistemas pela Fatec - Ourinhos
 - :underage: Skills: Html, Css, Bootstrap, PHP, JavaScript (Ajax, JQuery)
-- :briefcase: Buscando uma oportunidade no mercado de trabalho adquirindo conhecimento e técnicas apresentadas pela Udemy Cursos, visando desenvolvimento em aplicações Mobile
+- :briefcase: Buscando uma oportunidade no mercado de trabalho adquirindo conhecimento e técnicas apresentadas pela Udemy Cursos
