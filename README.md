@@ -1,8 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleisson-vilela-a695381b2/)](https://www.linkedin.com/in/igor-ferraz-85552b144/)
 
-# Oie, eu sou Igor Ferraz
-## Desenvolvedor WEB
+# Hi, i'm Igor Ferraz
+## WEB Developer
 
-- :books: Estudante em Análise e Desenvolvimento de Sistemas pela Fatec - Ourinhos
+- :books: Student in Systems Analysis and Development at Fatec - Ourinhos
 - :underage: Skills: Html5, Css (CSS3, SASS, Bootstrap), PHP, JavaScript (Ajax, JQuery)
-- :briefcase: Buscando uma oportunidade no mercado de trabalho adquirindo conhecimento e técnicas apresentadas pela Udemy Cursos
+- :briefcase: Seeking an opportunity in the job market acquiring knowledge and techniques presented by Udemy Cursos
