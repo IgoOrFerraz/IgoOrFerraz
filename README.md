@@ -5,4 +5,4 @@
 
 - :books: Student in Systems Analysis and Development at Fatec - Ourinhos
 - :underage: Skills: Html5, Css (CSS3, SASS, Bootstrap), PHP, JavaScript (Ajax, JQuery)
-- :briefcase: Seeking an opportunity in the job market acquiring knowledge and techniques presented by Udemy Cursos
+- :briefcase: Seeking an opportunity in the job market acquiring knowledge and techniques presented by Udemy
