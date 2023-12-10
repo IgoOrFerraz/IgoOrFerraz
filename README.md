@@ -7,7 +7,7 @@
 
 My goal is to create efficient and scalable technological solutions that solve real-world problems. I'm looking forward to taking on new challenges and contributing to exciting projects.
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Javascript" width="50" height="50">
