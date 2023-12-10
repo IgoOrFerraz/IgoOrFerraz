@@ -3,6 +3,10 @@
 # Hi, i'm Igor Ferraz
 ## Back-End Developer
 
+### 🎯 Professional Goals:
+
+My goal is to create efficient and scalable technological solutions that solve real-world problems. I'm looking forward to taking on new challenges and contributing to exciting projects.
+
 ### Languages and Tools:
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
@@ -13,4 +17,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="Docker" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
+</div>
+
+<br>
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igoorferraz&show_icons=true&theme=radical)
 </div>
