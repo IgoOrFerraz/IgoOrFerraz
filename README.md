@@ -23,5 +23,5 @@ My goal is to create efficient and scalable technological solutions that solve r
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igoorferraz&show_icons=true&theme=radical)
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IgoOrFerraz&layout=compact)](https://github.com/IgoOrFerraz/github-readme-stats)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=IgoOrFerraz&theme=radical&layout=compact)](https://github.com/IgoOrFerraz/github-readme-stats)
 </div>
